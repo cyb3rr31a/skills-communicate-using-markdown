@@ -13,3 +13,6 @@ Added Headings to the file
 my_str = "Hello, world!"
 print(my_str)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
