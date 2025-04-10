@@ -8,3 +8,8 @@
 Added Headings to the file
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+my_str = "Hello, world!"
+print(my_str)
+```
